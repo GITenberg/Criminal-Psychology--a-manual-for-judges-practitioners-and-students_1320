@@ -1,0 +1,48 @@
+_repo: Criminal-Psychology--a-manual-for-judges-practitioners-and-students_1320
+_version: 0.0.1
+alternative_title: Kriminal-Psychologie. English
+contributor:
+  author_of_introduction:
+    agent_name: Jastrow, Joseph
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '35246'
+    url: http://www.gutenberg.org/2009/agents/35246
+  translator:
+    agent_name: Kallen, Horace Meyer
+    aliases:
+    - Kallen, Horace M. (Horace Meyer)
+    - Kallen, H. M. (Horace Meyer)
+    birthdate: 1882
+    deathdate: 1974
+    gutenberg_agent_id: '36569'
+    url: http://www.gutenberg.org/2009/agents/36569
+creator:
+  author:
+    agent_name: Gross, Hans
+    alias: Gross, Hans Gustav Adolf
+    birthdate: 1847
+    deathdate: 1915
+    gutenberg_agent_id: '598'
+    url: http://www.gutenberg.org/2009/agents/598
+description: Translation of Kriminal-Psychologie
+gutenberg_bookshelf:
+- Crime Nonfiction
+- Psychology
+gutenberg_issued: '1998-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criminal psychology'
+- !lcsh 'Evidence (Law)'
+- !lcsh 'Criminal anthropology'
+- !lcsh 'Psychology, Pathological'
+- !lcc 'HV'
+- GITenberg
+title: 'Criminal Psychology: A Manual for Judges, Practitioners, and Students'
+url: http://www.gutenberg.org/ebooks/1320
