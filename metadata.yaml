@@ -1,5 +1,5 @@
 _repo: Criminal-Psychology--a-manual-for-judges-practitioners-and-students_1320
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Kriminal-Psychologie. English
 contributor:
   author_of_introduction:
@@ -17,6 +17,9 @@ contributor:
     deathdate: 1974
     gutenberg_agent_id: '36569'
     url: http://www.gutenberg.org/2009/agents/36569
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gross, Hans
@@ -26,6 +29,8 @@ creator:
     gutenberg_agent_id: '598'
     url: http://www.gutenberg.org/2009/agents/598
 description: Translation of Kriminal-Psychologie
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1320#Criminal-Psychology--a-manual-for-judges-practitioners-and-students
 gutenberg_bookshelf:
 - Crime Nonfiction
 - Psychology
